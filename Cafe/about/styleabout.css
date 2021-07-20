@@ -1,0 +1,64 @@
+/* CSS Document */
+body {
+	font: 16px/28px arial, sans-serif;
+	background-color: #eaeaea;
+	color: #333;
+	background-image: url(cafe.jpg?cafe=);	}
+	
+.container {
+	width: 900px;
+	margin: auto;
+	background-color:
+	#2980b9;
+	}
+	
+.header {
+	padding: 1px;
+	color: black;
+	font-size: 20px;
+	}
+
+h2 .judul {
+	font-size: 20px;
+	font-weight: bold;
+	background-color: black;
+	}
+	
+.main {
+	padding: 15px;
+	background: #2980b9;
+	color: #fff;
+	margin: 10px 0 10px 0;
+	}
+	
+.main .judul {
+	margin-top: -30px;
+	font-size: 20px;
+	font-weight: bold;
+	color: white;
+	}
+	
+.dark {
+	padding: 15px;
+	background-color: #2980b9;
+	color: #fff;
+	margin: 10px 0 10px 0;
+	}
+	
+.dark .tema {
+	margin-top: 20px;
+	font-size: 20px;
+	font-weight: bold;
+	color: white;
+	}
+	
+.footer {
+	background-color: #c23616;
+	padding: 7px;
+	}
+	
+.footer .copy {
+	color: #eaeaea;
+	text-align: center;
+	font-size: 13px;
+	}
